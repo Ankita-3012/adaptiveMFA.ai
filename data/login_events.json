@@ -1,0 +1,4502 @@
+[
+  {
+    "user_id": "user_001",
+    "ip_address": "191.4.198.48",
+    "device_fingerprint": "g44w957mc47hppt8hv6d4t2h497r7mvl",
+    "location": "Singapore",
+    "timestamp": "2023-12-03T19:31:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "192.168.196.204",
+    "device_fingerprint": "9eh40hcfd3acf7gbfa9hc79bd06afbd7",
+    "location": "San Francisco",
+    "timestamp": "2023-12-14T13:27:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "bel33eje28fuj4483lmsegdpoaktdt70",
+    "location": "Sydney",
+    "timestamp": "2024-01-28T05:40:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "c5egf9f6ce25ag43405ce7bhdb799931",
+    "location": "San Francisco",
+    "timestamp": "2023-12-04T12:21:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "203.188.10.98",
+    "device_fingerprint": "8cxdv4lvgp26ej697sq4lsjeknhzqmc4",
+    "location": "Tokyo",
+    "timestamp": "2024-01-09T20:55:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "601g6bec0e28hbhc89cc9c861adg50fa",
+    "location": "New York",
+    "timestamp": "2024-01-23T17:11:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "192.168.46.136",
+    "device_fingerprint": "50be0a6e8hhb144g7hh6b1696bd832h4",
+    "location": "London",
+    "timestamp": "2023-12-04T15:51:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "192.168.70.207",
+    "device_fingerprint": "b37d121g03c0eeg0a3fe5426ccbab05h",
+    "location": "San Francisco",
+    "timestamp": "2024-01-24T13:08:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "196.108.93.143",
+    "device_fingerprint": "xb4uk6tj5rndnwgwrl79fka090t6zlmu",
+    "location": "Moscow",
+    "timestamp": "2024-01-25T22:00:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "184.27.174.224",
+    "device_fingerprint": "99o2y71aztq06y2id1w22x2k01sbp1oq",
+    "location": "Singapore",
+    "timestamp": "2024-01-12T00:53:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "f7ha52ch2939d67c4fg21e3e63681hab",
+    "location": "New York",
+    "timestamp": "2023-12-13T13:00:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "196.108.93.143",
+    "device_fingerprint": "or221k4xd5pavl86tl99qxe9d49ip1ox",
+    "location": "Singapore",
+    "timestamp": "2023-12-18T06:47:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "228.190.15.124",
+    "device_fingerprint": "t232bsjxhlzb3sdkd94fcavsye5of0sc",
+    "location": "Dubai",
+    "timestamp": "2023-12-26T23:14:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "3imhk4etagatcp6cqp85q56luc1vuitq",
+    "location": "Moscow",
+    "timestamp": "2024-01-21T02:59:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "142.104.254.189",
+    "device_fingerprint": "dv3rjumcoxsz4rnrrym0vvljjr15m72c",
+    "location": "Moscow",
+    "timestamp": "2024-01-06T06:21:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "231.129.68.83",
+    "device_fingerprint": "9f6bp9rvx1mashcv7hqq8lfcqjp7fef0",
+    "location": "Sydney",
+    "timestamp": "2023-12-25T19:10:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "50.184.94.107",
+    "device_fingerprint": "7zt0jqh8dpg4c1jzkhkuimqiumt29x6e",
+    "location": "Singapore",
+    "timestamp": "2023-12-21T02:43:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "169.14.62.218",
+    "device_fingerprint": "w4rdc5bikmfqminrsc3yl180lr1j7uyo",
+    "location": "Singapore",
+    "timestamp": "2024-01-21T02:30:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "voezvjta9hl2w1qsdmtkstxdivaoouel",
+    "location": "Dubai",
+    "timestamp": "2023-12-18T03:34:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "7240c1c830aa6g73cc4de59b3f4dad78",
+    "location": "New York",
+    "timestamp": "2023-12-22T11:55:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "ww38pumcd4sgp4w3v4tq6v8h10bllm7c",
+    "location": "Tokyo",
+    "timestamp": "2024-01-13T23:21:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.80.239",
+    "device_fingerprint": "4df9704e28fa43bgb20hc540d58aafd8",
+    "location": "London",
+    "timestamp": "2023-12-09T14:32:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.80.239",
+    "device_fingerprint": "719242bg75c3c7d5ghg87bac564cgb9f",
+    "location": "New York",
+    "timestamp": "2023-12-26T11:34:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "192.168.1.109",
+    "device_fingerprint": "be7g0ba57h0g12dga8c3b677f3f393g9",
+    "location": "San Francisco",
+    "timestamp": "2023-12-30T15:52:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "153.63.197.74",
+    "device_fingerprint": "9iv1205d47xjfg2qzxoibj8seq4in1uf",
+    "location": "Dubai",
+    "timestamp": "2024-01-20T21:02:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "192.168.198.191",
+    "device_fingerprint": "5efd2a01ef06hd558hfa45c3b7500315",
+    "location": "London",
+    "timestamp": "2023-12-03T16:01:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "f05024736ah2c6b8fd9cef9c6b98dg5f",
+    "location": "New York",
+    "timestamp": "2023-12-13T17:15:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "249.226.118.48",
+    "device_fingerprint": "u27uhilczu9kosngvf6t5cst6uvh8gv9",
+    "location": "Mumbai",
+    "timestamp": "2024-01-17T04:58:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.23.49",
+    "device_fingerprint": "98bb6a6gg47a3dbfcg551g4141ehb2eg",
+    "location": "New York",
+    "timestamp": "2023-12-05T17:04:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.223.230",
+    "device_fingerprint": "95b6fdeh5h89ace7144fe29g7eheg7f1",
+    "location": "London",
+    "timestamp": "2023-12-11T10:13:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "255.214.161.193",
+    "device_fingerprint": "zta03p9ngw8lmxar57srlbo1x2tagaw8",
+    "location": "Dubai",
+    "timestamp": "2024-01-22T22:21:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "bjxyx6pn1s7p3f952hsgac0op9hczu5o",
+    "location": "Dubai",
+    "timestamp": "2024-01-19T03:01:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "228.190.15.124",
+    "device_fingerprint": "eo35heyawh1o9eoplnaxj4dte0u552gz",
+    "location": "Tokyo",
+    "timestamp": "2023-12-20T19:53:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "157.139.55.236",
+    "device_fingerprint": "smd7cnwpff3d67zi39ka5s8joyslq9gf",
+    "location": "Tokyo",
+    "timestamp": "2023-12-24T07:23:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.118.79",
+    "device_fingerprint": "74bce160f7602c2b4b88217a91309b24",
+    "location": "San Francisco",
+    "timestamp": "2023-12-31T16:34:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "192.168.194.48",
+    "device_fingerprint": "1532e6e983533h721a58cf51ggada407",
+    "location": "New York",
+    "timestamp": "2024-01-01T09:04:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "191.4.198.48",
+    "device_fingerprint": "8v91j821qd3nqf1p70qxznjo39wmzweb",
+    "location": "Tokyo",
+    "timestamp": "2024-01-07T19:56:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "255.214.161.193",
+    "device_fingerprint": "0xcftkjb52hhikce0nnwxaprln1eawtx",
+    "location": "Singapore",
+    "timestamp": "2024-01-29T23:15:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.223.230",
+    "device_fingerprint": "aa7b60e72b8d352b91a201gd9991g0eg",
+    "location": "London",
+    "timestamp": "2023-12-02T08:15:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "157.139.55.236",
+    "device_fingerprint": "jo9qd1xr6uf56z0v01ew0kvpd220dwqo",
+    "location": "Tokyo",
+    "timestamp": "2023-12-24T07:57:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "203.188.10.98",
+    "device_fingerprint": "izv9g2bhobfx6ulxhy07chf9rqqw6ckr",
+    "location": "Singapore",
+    "timestamp": "2023-12-28T22:03:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "k88kl7ene1xbzayx6ioagft1zfq8elks",
+    "location": "Tokyo",
+    "timestamp": "2024-01-19T07:07:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "kaps47m89a42r3g9aj83cfssqiba2b9o",
+    "location": "Singapore",
+    "timestamp": "2023-12-02T02:18:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "28eahe2dbaf43fahcc0d147693fhehc8",
+    "location": "New York",
+    "timestamp": "2024-01-14T12:32:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "e604d83gfh809583hfh01511ea3d93a7",
+    "location": "New York",
+    "timestamp": "2023-12-12T12:51:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "lnng625evsxhfx63g6tcx6lvemu7gyeh",
+    "location": "Tokyo",
+    "timestamp": "2023-12-08T21:54:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "g4f00acc9f80240f68917bhh27b93e49",
+    "location": "London",
+    "timestamp": "2023-12-19T15:22:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.198.191",
+    "device_fingerprint": "e02ef0c279aadcd38228g9d4hh749dc8",
+    "location": "London",
+    "timestamp": "2024-01-31T10:33:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "203.188.10.98",
+    "device_fingerprint": "yupvs01op816tl0u2zhim54iuldjhavh",
+    "location": "Moscow",
+    "timestamp": "2023-12-17T21:14:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.46.136",
+    "device_fingerprint": "ea9001g3g0gbfggdaege91a58996d6c3",
+    "location": "San Francisco",
+    "timestamp": "2024-01-21T08:11:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "5b9cgzubpw5uz3q7bloek6pksfalz1xf",
+    "location": "Mumbai",
+    "timestamp": "2024-01-13T02:08:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.196.204",
+    "device_fingerprint": "3ch0h000bf37ef42e6g9c4e06d0ah5g3",
+    "location": "San Francisco",
+    "timestamp": "2023-12-02T11:44:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "f1ocpq1172ijq3q22e1d7f0qu4xx5i10",
+    "location": "Mumbai",
+    "timestamp": "2024-01-15T20:06:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.158.241",
+    "device_fingerprint": "55ehg62cf7010f8330f8e8c7e3afa46f",
+    "location": "San Francisco",
+    "timestamp": "2024-01-08T09:40:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "196.108.93.143",
+    "device_fingerprint": "xnb9shy2iiqpcbfguteiw6q1e7lvky10",
+    "location": "Sydney",
+    "timestamp": "2024-01-04T04:09:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.70.207",
+    "device_fingerprint": "45fega11004423f40974efc142g71eb1",
+    "location": "New York",
+    "timestamp": "2023-12-15T17:27:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "h0fdb8229abd2g109bg36430headdb16",
+    "location": "New York",
+    "timestamp": "2024-01-01T13:59:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "192.168.80.239",
+    "device_fingerprint": "e46980c341784ee8dbga9a05fc9e30dg",
+    "location": "San Francisco",
+    "timestamp": "2024-01-23T09:19:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "1d644b53679ggcdd0a0dff4f017711gd",
+    "location": "San Francisco",
+    "timestamp": "2023-12-19T16:33:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.158.241",
+    "device_fingerprint": "2a28e164d74af884d77e91660g3b0c9a",
+    "location": "London",
+    "timestamp": "2023-12-16T09:15:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "54.210.233.230",
+    "device_fingerprint": "8b80ri3vtmon1bxlsmuocffrfbljz8rs",
+    "location": "Dubai",
+    "timestamp": "2023-12-10T22:14:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.23.49",
+    "device_fingerprint": "22e640ah27a0gb6heg1ch4fa1480h537",
+    "location": "London",
+    "timestamp": "2023-12-28T08:03:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.66.236",
+    "device_fingerprint": "a6h932878a7h1g129177fb44c225189a",
+    "location": "London",
+    "timestamp": "2024-01-23T18:11:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "c90gch04ef314h9120g6ca3108e6b77h",
+    "location": "London",
+    "timestamp": "2024-01-21T14:44:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.136.143",
+    "device_fingerprint": "ffbh52b3fg8a6f9738dfecf8129a3bfc",
+    "location": "San Francisco",
+    "timestamp": "2024-01-27T14:48:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "xxsq05lvhmjyy1gj2h7dexais9lhtp8u",
+    "location": "Dubai",
+    "timestamp": "2023-12-13T23:12:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "228.190.15.124",
+    "device_fingerprint": "0p5lbhujx8w5p0z0f33v952qfghbh1oo",
+    "location": "Moscow",
+    "timestamp": "2023-12-26T06:04:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.23.49",
+    "device_fingerprint": "8059g37991hg74gceh5bfa2abe3be850",
+    "location": "San Francisco",
+    "timestamp": "2024-01-06T13:25:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "180.82.186.64",
+    "device_fingerprint": "9zmc50q4jun94mtwaiok0i7jpstyzydi",
+    "location": "Tokyo",
+    "timestamp": "2023-12-22T19:41:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.80.239",
+    "device_fingerprint": "866hdeb4eda2b6fd8969d973e26ch1cc",
+    "location": "New York",
+    "timestamp": "2024-01-19T17:38:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.66.236",
+    "device_fingerprint": "2fbge563777e0d93fbfagaf4h5457208",
+    "location": "London",
+    "timestamp": "2023-12-31T16:06:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.223.230",
+    "device_fingerprint": "3hf7780a0e4f8c84ah31b2aag87eebfg",
+    "location": "New York",
+    "timestamp": "2024-01-06T15:23:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "255.214.161.193",
+    "device_fingerprint": "b9wcl9qazmriejtstct6b81vj48q90ov",
+    "location": "Singapore",
+    "timestamp": "2024-01-24T06:28:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "nhqlg5gzt3lfqj6k63yesj444s9h1za7",
+    "location": "Dubai",
+    "timestamp": "2023-12-08T19:25:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "249.226.118.48",
+    "device_fingerprint": "fz8hi4jsgwgqha3l4kxb9qe0g8r69ms9",
+    "location": "Singapore",
+    "timestamp": "2024-01-31T07:45:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.40.19",
+    "device_fingerprint": "f8fcd8gh159h78fdc26eh22fa70c7h76",
+    "location": "San Francisco",
+    "timestamp": "2024-01-13T17:06:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "420dgb6a3he71101g0f1c7921a1af4fc",
+    "location": "London",
+    "timestamp": "2024-01-29T17:06:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.66.236",
+    "device_fingerprint": "eg5795bga1cfc91f1e7f5b9ge5fbe0e5",
+    "location": "San Francisco",
+    "timestamp": "2024-01-21T15:11:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "42.40.21.158",
+    "device_fingerprint": "ozzq538rtr1gumhaydpb8z2kde5gvh13",
+    "location": "Moscow",
+    "timestamp": "2024-01-15T04:16:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "180.82.186.64",
+    "device_fingerprint": "jik1qj9tva3p8govb1pbbyzhs48nxnhi",
+    "location": "Mumbai",
+    "timestamp": "2024-01-09T23:29:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "196.108.93.143",
+    "device_fingerprint": "5ncy9m6ow2v5dcirrfi82imc0qa8m3i4",
+    "location": "Mumbai",
+    "timestamp": "2024-01-04T06:51:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "157.139.55.236",
+    "device_fingerprint": "1k01ojyi83l07tt5d2k0b0xsccchdpxl",
+    "location": "Singapore",
+    "timestamp": "2024-01-06T06:26:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "b161h9g9f5d8d74hf2f99d3b8739844d",
+    "location": "San Francisco",
+    "timestamp": "2023-12-15T16:43:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "192.168.46.136",
+    "device_fingerprint": "a1h4g5d15d98c4200ebbc0bf7de7aa30",
+    "location": "San Francisco",
+    "timestamp": "2024-01-09T14:56:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "157.139.55.236",
+    "device_fingerprint": "dmmqehyqlhydalajbu8wxfth8y6ygar8",
+    "location": "Singapore",
+    "timestamp": "2023-12-24T00:40:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "192.168.40.19",
+    "device_fingerprint": "bf7ddccg8f615h3f6a427h438g836755",
+    "location": "London",
+    "timestamp": "2024-01-10T10:55:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "192.168.10.156",
+    "device_fingerprint": "2c7848be0584fg86bffc907h7bd433ch",
+    "location": "New York",
+    "timestamp": "2023-12-14T15:59:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "86558afe59d6h5c2g1a6dhh2b893ff1h",
+    "location": "New York",
+    "timestamp": "2023-12-10T15:18:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "5g4dd57cfcef15d8b72620f2hhf8789b",
+    "location": "New York",
+    "timestamp": "2023-12-23T16:01:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.1.109",
+    "device_fingerprint": "6ad855e79acd97579c1fe64gcg15d80f",
+    "location": "San Francisco",
+    "timestamp": "2024-01-05T15:22:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "42.40.21.158",
+    "device_fingerprint": "xzach541nx01ubbu12ev5wtnj27t1yow",
+    "location": "Moscow",
+    "timestamp": "2024-01-25T19:00:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "142.104.254.189",
+    "device_fingerprint": "b62xpwci1zb0powrkcuud2h4zvh55era",
+    "location": "Mumbai",
+    "timestamp": "2024-01-11T05:50:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "mkabzoxn7a3i1ti6qn5wsi9jrc1cnagu",
+    "location": "Sydney",
+    "timestamp": "2024-01-29T23:34:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "16hbe20ah1371ed062d6gg9d4hcc15be",
+    "location": "London",
+    "timestamp": "2024-01-19T08:07:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "1qnw4ueg17narma88b5vwraqs522brf3",
+    "location": "Tokyo",
+    "timestamp": "2024-01-03T23:54:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.46.136",
+    "device_fingerprint": "35189ehc052810e4329a552c7heb2g02",
+    "location": "San Francisco",
+    "timestamp": "2023-12-30T16:58:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.1.109",
+    "device_fingerprint": "7fh0g04bch361hd81c6gba0b9552dgbc",
+    "location": "London",
+    "timestamp": "2023-12-22T14:39:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "q30wjoeza940x9le6n4v9470wut5rrl7",
+    "location": "Sydney",
+    "timestamp": "2024-01-31T02:32:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "192.168.158.241",
+    "device_fingerprint": "85fee82a6331f3ad5a6d1957d0hbfb72",
+    "location": "San Francisco",
+    "timestamp": "2024-01-03T09:06:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "196.108.93.143",
+    "device_fingerprint": "jdhs14acx37psvr12uw1qbin02062jj2",
+    "location": "Moscow",
+    "timestamp": "2024-01-10T19:49:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "203.188.10.98",
+    "device_fingerprint": "y4mij1jady96msykhe4j7of70514tt1c",
+    "location": "Moscow",
+    "timestamp": "2024-01-18T21:18:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "9h9ee69fc6760f57b33h7d26fb651bch",
+    "location": "San Francisco",
+    "timestamp": "2024-01-04T12:26:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "01l1cpfd69dkgc5pktpi6zpxqmqpx4m1",
+    "location": "Sydney",
+    "timestamp": "2024-01-23T19:07:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "k8hhqqsarjx6yc64w6oht94aujl3fq55",
+    "location": "Moscow",
+    "timestamp": "2023-12-26T05:35:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "157.139.55.236",
+    "device_fingerprint": "qmvui0uk9xqbifpw3x76758kcbc3fm6d",
+    "location": "Sydney",
+    "timestamp": "2024-01-06T02:33:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "bdnm6k15m5ks5yovo58lirt94y84131g",
+    "location": "Tokyo",
+    "timestamp": "2023-12-17T19:36:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "arazxp3tdfsoxrxx78qkc5yh3qfng7zu",
+    "location": "Sydney",
+    "timestamp": "2023-12-26T04:19:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "fnkxdzi8hvow1y8mh4ajey8up3me4jpj",
+    "location": "Tokyo",
+    "timestamp": "2024-01-01T07:49:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "249.226.118.48",
+    "device_fingerprint": "h82z0odp0cnskd6ufz6szeca6b1itz9j",
+    "location": "Moscow",
+    "timestamp": "2024-01-20T06:16:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "h2gha36a4a917ee3c0g5684213f6hdea",
+    "location": "San Francisco",
+    "timestamp": "2024-01-17T10:09:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "7ehfce3g11a50d272ead2hbc2fc7g87e",
+    "location": "New York",
+    "timestamp": "2024-01-12T18:58:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "192.168.80.239",
+    "device_fingerprint": "0hc9g807c68c2f69hfd2hdf8adfbg1f8",
+    "location": "London",
+    "timestamp": "2024-01-14T14:51:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "249.226.118.48",
+    "device_fingerprint": "iailwzvyw0kg29mu2uiqk5ocr4a7714t",
+    "location": "Tokyo",
+    "timestamp": "2024-01-28T22:17:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "191.4.198.48",
+    "device_fingerprint": "gd212n5y30qp3obub0q52bmxveem0dit",
+    "location": "Mumbai",
+    "timestamp": "2023-12-18T21:05:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.45.235",
+    "device_fingerprint": "4db35ge249760922g3896abc63ba4h92",
+    "location": "London",
+    "timestamp": "2024-01-22T13:12:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "255.214.161.193",
+    "device_fingerprint": "0irm0gl4puaybq6p0rvn6b3j76sgv3ht",
+    "location": "Tokyo",
+    "timestamp": "2023-12-03T02:38:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "a5be969g053eb3c7cdf000g83818fac2",
+    "location": "London",
+    "timestamp": "2023-12-05T09:54:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "gc402a6f2986febgc6affhg8chec8451",
+    "location": "San Francisco",
+    "timestamp": "2023-12-28T15:00:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "192.168.40.19",
+    "device_fingerprint": "189fab7gbg9b9g30e593a372d81gcdd5",
+    "location": "New York",
+    "timestamp": "2024-01-27T14:17:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "iwexgzozmel4vnnu3lo22cn5y57i1pxk",
+    "location": "Singapore",
+    "timestamp": "2023-12-18T04:36:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "196.108.93.143",
+    "device_fingerprint": "wvcwdfc8zczqcm4ayixqazm43l2cqk30",
+    "location": "Dubai",
+    "timestamp": "2023-12-08T05:54:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "231.129.68.83",
+    "device_fingerprint": "4esekfh5y6wbvm3vjv61khlpbeevbphh",
+    "location": "Sydney",
+    "timestamp": "2023-12-23T03:14:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.66.236",
+    "device_fingerprint": "1137d4ba77d2d635ab48f8g500c8c31h",
+    "location": "San Francisco",
+    "timestamp": "2024-01-31T17:55:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.225.110",
+    "device_fingerprint": "19807da6fc142195c72hh79ea10g9h7c",
+    "location": "London",
+    "timestamp": "2024-01-12T15:29:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "7d0wd8yxls0kpsr1ddr2e892liqfr683",
+    "location": "Singapore",
+    "timestamp": "2023-12-11T01:04:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "142.104.254.189",
+    "device_fingerprint": "kbhwg9az1wvxfobfucy13ncsq6jniezo",
+    "location": "Sydney",
+    "timestamp": "2024-01-25T07:09:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.10.156",
+    "device_fingerprint": "d759dh9bgf379a2aah4h4f0g149hh0e8",
+    "location": "New York",
+    "timestamp": "2023-12-03T11:49:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "79a543cde797457abg531h1532hhdce2",
+    "location": "New York",
+    "timestamp": "2024-01-10T16:56:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.40.19",
+    "device_fingerprint": "dce670ca986b82hh6ee5f0g318f0f38e",
+    "location": "New York",
+    "timestamp": "2024-01-20T12:08:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "160.243.175.127",
+    "device_fingerprint": "j20mirlep52eb9zv5pfeik7r9r8tidq5",
+    "location": "Tokyo",
+    "timestamp": "2024-01-09T02:39:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.45.235",
+    "device_fingerprint": "2ecc885867bf0d12596389ed9ah7659h",
+    "location": "San Francisco",
+    "timestamp": "2023-12-27T17:44:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "7803e92agd978dh7558c613e2072aa80",
+    "location": "San Francisco",
+    "timestamp": "2024-01-05T10:30:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "35eead2hec1g64c9282ee8644fdf2374",
+    "location": "New York",
+    "timestamp": "2024-01-14T18:48:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "d95hb427heegh1114agb3de81ggce0gh",
+    "location": "London",
+    "timestamp": "2023-12-12T18:06:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "wgcavb7soymxsn1fdnnludyltnq8kdci",
+    "location": "Moscow",
+    "timestamp": "2023-12-11T02:13:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "g0da3c98gbc66df03e88980f05g590d2",
+    "location": "San Francisco",
+    "timestamp": "2024-01-17T11:25:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "xsjcz1uvv4m7i1k0axjqare7ondhe6te",
+    "location": "Tokyo",
+    "timestamp": "2024-01-08T03:01:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "42.40.21.158",
+    "device_fingerprint": "vfozpmt7d05qoqoxn9st8c0sqd83d4i1",
+    "location": "Singapore",
+    "timestamp": "2024-01-27T21:09:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "eb90c62a7cafhd1bf2e1392h159gacc9",
+    "location": "San Francisco",
+    "timestamp": "2024-01-11T12:42:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "50.184.94.107",
+    "device_fingerprint": "m5umq3vg1rrubzdejeb6eyv8qvk8h6bi",
+    "location": "Sydney",
+    "timestamp": "2023-12-20T21:05:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "249.226.118.48",
+    "device_fingerprint": "q09ybg041fjykieiv7kvz70iqorefle1",
+    "location": "Mumbai",
+    "timestamp": "2024-01-17T20:02:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "253baec59g58h08fed1fc83092d4dbh8",
+    "location": "San Francisco",
+    "timestamp": "2024-01-06T12:50:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "192.168.45.235",
+    "device_fingerprint": "d45a304f111eecg886ea553g0h966512",
+    "location": "London",
+    "timestamp": "2024-01-31T17:04:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "249.226.118.48",
+    "device_fingerprint": "6m0va7av6j6103ey3ilzmk9scrjlxlyj",
+    "location": "Sydney",
+    "timestamp": "2023-12-27T20:13:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "196.108.93.143",
+    "device_fingerprint": "e6uy5047kixsc6y4zn8g1jl3vszhs8fc",
+    "location": "Sydney",
+    "timestamp": "2023-12-25T22:46:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "160.243.175.127",
+    "device_fingerprint": "9i57oqpl5ggas2h1c4z3zkx00slvdyuq",
+    "location": "Mumbai",
+    "timestamp": "2023-12-12T19:19:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "d8aae1h0h28g76hh6cag82462h2d8426",
+    "location": "New York",
+    "timestamp": "2023-12-22T13:03:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "192.168.196.204",
+    "device_fingerprint": "83c33d7ch2817eh8d61562fhea01hfe6",
+    "location": "New York",
+    "timestamp": "2023-12-07T17:32:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "157.139.55.236",
+    "device_fingerprint": "b1ktrzmy197g3nd0lpxxp4gj40jdrfgf",
+    "location": "Singapore",
+    "timestamp": "2024-01-07T04:55:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.118.79",
+    "device_fingerprint": "gdg081h04ddd41195159c9eecgf09e18",
+    "location": "San Francisco",
+    "timestamp": "2023-12-28T15:37:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "89.3.134.112",
+    "device_fingerprint": "v9u2xjtop9kr2z6jjddau6hljx3it2h7",
+    "location": "Moscow",
+    "timestamp": "2024-01-28T22:35:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "42.40.21.158",
+    "device_fingerprint": "a9e564ad0jm5oke3o1lzc05573ryr338",
+    "location": "Tokyo",
+    "timestamp": "2023-12-05T05:57:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "a4g43hh3ed8b34e85b7bh1b6eh8he29d",
+    "location": "London",
+    "timestamp": "2023-12-08T15:19:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "184.27.174.224",
+    "device_fingerprint": "esoq9v6hpipwlje623er5r1z5a0hvz1n",
+    "location": "Dubai",
+    "timestamp": "2023-12-06T02:40:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.136.143",
+    "device_fingerprint": "82e89bg0380551be7d2507h6a95a4fh3",
+    "location": "London",
+    "timestamp": "2024-01-20T15:49:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "g47651ahfhh9f2gd80084a52808f4324",
+    "location": "London",
+    "timestamp": "2024-01-11T08:58:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.46.136",
+    "device_fingerprint": "a690g33a33312b19a795e87e2h46dh8h",
+    "location": "New York",
+    "timestamp": "2024-01-10T18:48:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.122.88",
+    "device_fingerprint": "6d26c6a79aecbc2a77e48g3eg6b9b613",
+    "location": "London",
+    "timestamp": "2023-12-26T10:06:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.10.156",
+    "device_fingerprint": "cc6b1f1ggd793hcd8g349h826c64b309",
+    "location": "San Francisco",
+    "timestamp": "2024-01-08T13:13:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "8bc7g460c5ge6b3e393662fh8830c5eg",
+    "location": "New York",
+    "timestamp": "2024-01-07T11:05:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "ze2s07vh020d6cn93goj1zy6tan2p0dg",
+    "location": "Dubai",
+    "timestamp": "2024-01-29T03:50:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "249.226.118.48",
+    "device_fingerprint": "5yiudxfdi13wzmcg8rukbxogik62nw68",
+    "location": "Moscow",
+    "timestamp": "2023-12-17T05:28:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "76fhe2046dhagc50d5633a819ffaag3e",
+    "location": "New York",
+    "timestamp": "2023-12-19T18:45:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "3z0vpodn3qtppz2c2hii93vdwrg45bmc",
+    "location": "Moscow",
+    "timestamp": "2024-01-24T01:07:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "eq4ob1w5yygtbevlczo5df01lic7cqsg",
+    "location": "Dubai",
+    "timestamp": "2024-01-03T04:35:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "54.210.233.230",
+    "device_fingerprint": "tmszw5pokfk2tqeh0l2jz769nmnm7e9i",
+    "location": "Dubai",
+    "timestamp": "2024-01-05T01:30:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.198.191",
+    "device_fingerprint": "b9a734h0d486527ec65b5d9c23296d2d",
+    "location": "London",
+    "timestamp": "2024-01-05T13:23:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "142.104.254.189",
+    "device_fingerprint": "f6q5zkpd7qkbj2dk708ehvrrae47jn3t",
+    "location": "Singapore",
+    "timestamp": "2024-01-27T07:43:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.40.19",
+    "device_fingerprint": "ff1a1aebg349baec5751ec4bg8a0abba",
+    "location": "San Francisco",
+    "timestamp": "2023-12-05T15:26:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "203.188.10.98",
+    "device_fingerprint": "r4s2owih7qd6khj9g08p200hpyxbyn38",
+    "location": "Dubai",
+    "timestamp": "2023-12-04T06:51:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "228.190.15.124",
+    "device_fingerprint": "guail9b9ffjbgnifc210b643e78inec9",
+    "location": "Mumbai",
+    "timestamp": "2023-12-24T06:08:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "50b9b0dbf8ae46290e5bda39a17gdd37",
+    "location": "San Francisco",
+    "timestamp": "2024-01-26T15:45:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "7m2u8he4a8iu5rbuk221htmwu8mr9olr",
+    "location": "Mumbai",
+    "timestamp": "2023-12-21T03:25:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "b2ykt2aahpyno4ubiqu642fl0upye0lr",
+    "location": "Mumbai",
+    "timestamp": "2023-12-25T00:01:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "192.168.196.204",
+    "device_fingerprint": "1h2b768gf5b6fg5fdb047ccb49c424ha",
+    "location": "London",
+    "timestamp": "2023-12-16T16:58:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "bl696k1qe04gnikyj95vw9edl2jxzzr9",
+    "location": "Sydney",
+    "timestamp": "2024-01-03T06:01:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "g638458254b03cbd4ce338dd01ah443f",
+    "location": "San Francisco",
+    "timestamp": "2023-12-14T18:59:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "g6ebzvqspb05qfr11bfio3aes7jk269k",
+    "location": "Mumbai",
+    "timestamp": "2024-01-10T19:01:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "228.190.15.124",
+    "device_fingerprint": "tem07wzqgl5z3hlpfsnq8y7b6bmrl6me",
+    "location": "Sydney",
+    "timestamp": "2023-12-16T07:50:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.158.241",
+    "device_fingerprint": "df0ga0g49779e6c284c24cfc3009g78h",
+    "location": "San Francisco",
+    "timestamp": "2023-12-17T17:23:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "255.214.161.193",
+    "device_fingerprint": "dojpq3xv8rp6h5nip429jlbiwa2bgnu1",
+    "location": "Sydney",
+    "timestamp": "2024-01-06T21:35:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "169.14.62.218",
+    "device_fingerprint": "n85risrsez2gk2yo3g7a20v891rp10g2",
+    "location": "Mumbai",
+    "timestamp": "2024-01-08T19:05:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.194.48",
+    "device_fingerprint": "ghdae2h522gf1ga6d97780f4ad8d32d9",
+    "location": "London",
+    "timestamp": "2024-01-18T16:34:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "tjqdhp2qcwz4xutws935ip46m036h1yk",
+    "location": "Tokyo",
+    "timestamp": "2023-12-13T22:30:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "231.129.68.83",
+    "device_fingerprint": "3z8azqfm1uqc6zw9mr4909is5bjvixyu",
+    "location": "Sydney",
+    "timestamp": "2023-12-18T19:52:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.46.136",
+    "device_fingerprint": "acfee70g0a95217gc8b08a630e1984cf",
+    "location": "San Francisco",
+    "timestamp": "2024-01-23T14:24:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "50.184.94.107",
+    "device_fingerprint": "o94tpragmqphf8ymgz5f5rtr4b208lyn",
+    "location": "Singapore",
+    "timestamp": "2023-12-20T19:32:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.223.230",
+    "device_fingerprint": "g06hg81b4ad23cbedeffff05a0f64e3h",
+    "location": "London",
+    "timestamp": "2023-12-02T18:47:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "89.3.134.112",
+    "device_fingerprint": "7owiopvgalqek92zst601pym5owa5thc",
+    "location": "Mumbai",
+    "timestamp": "2023-12-30T05:04:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.45.235",
+    "device_fingerprint": "536gcb872e15adh1h24c6g58c2555f8f",
+    "location": "San Francisco",
+    "timestamp": "2023-12-30T16:06:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.70.207",
+    "device_fingerprint": "dehg7fc1g6de4hg17d208e33602cfdhf",
+    "location": "New York",
+    "timestamp": "2023-12-12T13:47:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.158.241",
+    "device_fingerprint": "b5c1197da40fc9h16130fbe3f0ec3ae0",
+    "location": "New York",
+    "timestamp": "2023-12-02T18:52:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "rucfz01rt4cy9iupdw7bqdyzuf9eibeg",
+    "location": "Mumbai",
+    "timestamp": "2023-12-18T00:04:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "228.190.15.124",
+    "device_fingerprint": "64evgzdltw5psf59n7a4tqqfe2gqoi2b",
+    "location": "Singapore",
+    "timestamp": "2024-01-01T07:33:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.196.204",
+    "device_fingerprint": "8edga3hfhd248640bdfae12215334cdb",
+    "location": "New York",
+    "timestamp": "2024-01-04T16:31:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.10.156",
+    "device_fingerprint": "h79ga295cheb5cf3268fcg3bf151ddbh",
+    "location": "London",
+    "timestamp": "2023-12-15T16:52:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "4k5ywb53h9qiq7xhxufn3heukem0x8pe",
+    "location": "Moscow",
+    "timestamp": "2024-01-29T19:28:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.225.110",
+    "device_fingerprint": "06d02ca8ed5235cbhdfg296ahha2638e",
+    "location": "San Francisco",
+    "timestamp": "2023-12-07T16:25:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "249.226.118.48",
+    "device_fingerprint": "nmfvhzez1eyxl3rh0asplhh7pm9nfuch",
+    "location": "Tokyo",
+    "timestamp": "2023-12-27T06:13:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "191.4.198.48",
+    "device_fingerprint": "3h3h1583dvlqiv9mfuklqnfovln32ayo",
+    "location": "Tokyo",
+    "timestamp": "2024-01-18T05:19:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "wzzkvvt477jaeehvg9ylmcjd8jl3avx0",
+    "location": "Sydney",
+    "timestamp": "2024-01-23T04:40:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "h9ed8bb13hhg7a9de09c292d75f149bg",
+    "location": "New York",
+    "timestamp": "2024-01-30T13:02:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "180.82.186.64",
+    "device_fingerprint": "hhzhor6trzx1s3dzidcxnd6ozqtuvyks",
+    "location": "Singapore",
+    "timestamp": "2023-12-06T02:39:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "192.168.122.88",
+    "device_fingerprint": "35c90gefeca692c18cg03hab3297c673",
+    "location": "New York",
+    "timestamp": "2023-12-20T08:18:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.66.236",
+    "device_fingerprint": "1ef3gd0c700bd9e1feaf3h5781c84565",
+    "location": "New York",
+    "timestamp": "2023-12-28T14:39:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "255.214.161.193",
+    "device_fingerprint": "8tus1kvcqvoi63whf9agew64zjekmtmr",
+    "location": "Mumbai",
+    "timestamp": "2023-12-02T06:50:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "cwop26trdgxevze8dx3ccwelp337d54d",
+    "location": "Tokyo",
+    "timestamp": "2023-12-07T04:56:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "y9d9zmin4w8xaa6p5ubr3jh3tjppbk7h",
+    "location": "Tokyo",
+    "timestamp": "2023-12-04T19:39:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "17gf37egbde333830fhe6fbgha16h20g",
+    "location": "London",
+    "timestamp": "2024-01-23T14:18:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "ah3anj2xw9ptcbirlicmlbidmzghvmjd",
+    "location": "Sydney",
+    "timestamp": "2023-12-12T02:03:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "203.188.10.98",
+    "device_fingerprint": "20na7exfwwy7pm4umimdfxzk0cpu5ndg",
+    "location": "Mumbai",
+    "timestamp": "2024-01-27T23:21:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "54.210.233.230",
+    "device_fingerprint": "0ohskswbrz8sw8xunhsfnigo6g2kzymp",
+    "location": "Tokyo",
+    "timestamp": "2024-01-23T06:56:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.45.235",
+    "device_fingerprint": "ef4ec7e31g8a998ecfbd03h3efg1a8f9",
+    "location": "San Francisco",
+    "timestamp": "2024-01-01T10:06:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "228.190.15.124",
+    "device_fingerprint": "184y3hf5j7sm10kd0p8iyv4fpw8kwejb",
+    "location": "Singapore",
+    "timestamp": "2024-01-08T20:10:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "54hd3f7c2hddgfd9b6db8dhcb9db25c5",
+    "location": "San Francisco",
+    "timestamp": "2024-01-04T17:52:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "169.14.62.218",
+    "device_fingerprint": "ybumvjmsh9zv74229ankbsremggkcq6j",
+    "location": "Tokyo",
+    "timestamp": "2023-12-18T06:23:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.225.110",
+    "device_fingerprint": "57d19eheha1c8g2h83d2b04ea4c2b606",
+    "location": "London",
+    "timestamp": "2023-12-10T12:34:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "249.226.118.48",
+    "device_fingerprint": "01iew25b5cnhleidkjs7f21drsyn0uqx",
+    "location": "Dubai",
+    "timestamp": "2023-12-18T05:29:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "89.3.134.112",
+    "device_fingerprint": "scz6vl7wvhlrrlp5ptj982a9tgjur9fw",
+    "location": "Sydney",
+    "timestamp": "2024-01-19T19:04:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "c30habb6532aea4g50d90d54522bg4e2",
+    "location": "San Francisco",
+    "timestamp": "2024-01-30T08:33:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "5h319081h1cg78gddd6bd701dc2ce2a3",
+    "location": "London",
+    "timestamp": "2023-12-17T11:01:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "184.27.174.224",
+    "device_fingerprint": "um69xwzz2pa0pcazy73il9fq9wus4z7k",
+    "location": "Singapore",
+    "timestamp": "2023-12-12T03:32:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.136.143",
+    "device_fingerprint": "b0f0ach2fc22h7g51b08b79h6db0629e",
+    "location": "San Francisco",
+    "timestamp": "2024-01-17T14:07:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "t97dljsdqleu22z9lw2edbkooyllilgw",
+    "location": "Singapore",
+    "timestamp": "2024-01-05T20:18:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "192.168.1.109",
+    "device_fingerprint": "fdh4abb1143fach5891b241765408a80",
+    "location": "San Francisco",
+    "timestamp": "2023-12-16T13:47:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.46.136",
+    "device_fingerprint": "03g06788c0c36h130a7146ff8ga2ahg9",
+    "location": "London",
+    "timestamp": "2024-01-23T10:35:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.45.235",
+    "device_fingerprint": "d69e0523539haa83f3541dd74g9ecac0",
+    "location": "London",
+    "timestamp": "2023-12-07T12:31:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "7d289fh4ac00b244397ge8g2e7d3e392",
+    "location": "San Francisco",
+    "timestamp": "2024-01-18T12:00:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "b5b9b6a50ah3affefgggbh4ghg64c4a7",
+    "location": "New York",
+    "timestamp": "2023-12-16T16:07:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.80.239",
+    "device_fingerprint": "7afg6g433a5ch9ed2ghfef4374bbgg06",
+    "location": "New York",
+    "timestamp": "2023-12-13T11:29:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "192.168.10.156",
+    "device_fingerprint": "91844a94bd7d5598ae0364g9c6g689d3",
+    "location": "San Francisco",
+    "timestamp": "2024-01-12T13:42:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "50.184.94.107",
+    "device_fingerprint": "4ujyby4en5e4oa3pnv3z41fu4s5ndgyh",
+    "location": "Tokyo",
+    "timestamp": "2024-01-27T22:32:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "160.243.175.127",
+    "device_fingerprint": "ohd8cb5aqyw61h96e8vebquvi7begl31",
+    "location": "Dubai",
+    "timestamp": "2023-12-08T20:55:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.1.109",
+    "device_fingerprint": "1730786ch869bfg45adeba4d77164b93",
+    "location": "San Francisco",
+    "timestamp": "2023-12-25T12:56:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "6bwm3ru3h3hdryb1ejqqzc1r15nje9kt",
+    "location": "Singapore",
+    "timestamp": "2024-01-27T04:17:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "89.3.134.112",
+    "device_fingerprint": "frn7p0s0jih40hdti8aej33awnqszwnj",
+    "location": "Mumbai",
+    "timestamp": "2024-01-05T00:17:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "184.27.174.224",
+    "device_fingerprint": "c43lqkvqnppfpdcl4dadb30ar13hxtom",
+    "location": "Sydney",
+    "timestamp": "2023-12-12T04:10:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "ge9594c04966cf7dfd073ade93h3gfa7",
+    "location": "New York",
+    "timestamp": "2023-12-09T18:07:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.122.88",
+    "device_fingerprint": "58d79662971a2dc660h45f4030f5h8af",
+    "location": "London",
+    "timestamp": "2023-12-06T11:04:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "192.168.23.49",
+    "device_fingerprint": "af1h50fg5dbb5e14aab5h29739h5gga8",
+    "location": "San Francisco",
+    "timestamp": "2023-12-12T08:44:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.223.230",
+    "device_fingerprint": "46hh60g5g33188ag7f0081ccca7e4dba",
+    "location": "London",
+    "timestamp": "2024-01-29T18:53:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.198.191",
+    "device_fingerprint": "0c6a3a5164fb6c371d81hfhd794d8c0h",
+    "location": "New York",
+    "timestamp": "2024-01-17T09:01:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "192.168.1.109",
+    "device_fingerprint": "dh8d96596f6g6h4c43c5gge866a3c689",
+    "location": "San Francisco",
+    "timestamp": "2024-01-27T15:26:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "50.184.94.107",
+    "device_fingerprint": "eggvunc06vq06h9euu67d9wo98nbsxai",
+    "location": "Moscow",
+    "timestamp": "2024-01-17T04:48:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "160.243.175.127",
+    "device_fingerprint": "ti3p8rquadfadvgxaxy0n8ogzjaqurae",
+    "location": "Sydney",
+    "timestamp": "2023-12-23T05:57:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.40.19",
+    "device_fingerprint": "cfgb8f9hf32652gcca21cb08355hd1gh",
+    "location": "London",
+    "timestamp": "2024-01-23T15:55:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "153.63.197.74",
+    "device_fingerprint": "skpq19ts9fhcq3j4leuzo8vrydngrsnk",
+    "location": "Moscow",
+    "timestamp": "2024-01-23T04:14:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.10.156",
+    "device_fingerprint": "ggd7f5ae6fbfcf39d630ed4d866c4fe9",
+    "location": "San Francisco",
+    "timestamp": "2023-12-27T09:51:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "sdroz0wjehj5iot1ayuve9pf859yt6sl",
+    "location": "Mumbai",
+    "timestamp": "2024-01-29T00:39:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "tvc2fev0l10xnx187czj2zcqfvaemqom",
+    "location": "Dubai",
+    "timestamp": "2024-01-10T22:23:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "160.243.175.127",
+    "device_fingerprint": "9o2wy7ee48o3il4yfu3img04g7suo0dw",
+    "location": "Singapore",
+    "timestamp": "2024-01-26T20:01:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "39d13807fg79cf52013h3gd322hg3h1b",
+    "location": "New York",
+    "timestamp": "2024-01-17T10:36:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "557a52dg319051f03d8gd1f6b041g30f",
+    "location": "San Francisco",
+    "timestamp": "2023-12-20T09:17:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "gc4h589de3368ebcc44gc1fh4gc73037",
+    "location": "New York",
+    "timestamp": "2023-12-08T14:44:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "c4a30b13d77b382155hc68d3a4795741",
+    "location": "London",
+    "timestamp": "2024-01-06T18:40:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "x1tdmojsbom8v0lo40k7jjnibbnglpfc",
+    "location": "Mumbai",
+    "timestamp": "2023-12-21T19:45:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "192.168.23.49",
+    "device_fingerprint": "c40chgf7g8cf0554863346a9ddddd7h4",
+    "location": "London",
+    "timestamp": "2024-01-01T14:36:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "168ab880d81db6gb7e2eg47fd56ec428",
+    "location": "New York",
+    "timestamp": "2024-01-26T16:44:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.118.79",
+    "device_fingerprint": "4fgg473ce4e854872f7b2e3dced54966",
+    "location": "San Francisco",
+    "timestamp": "2023-12-16T18:23:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "228.190.15.124",
+    "device_fingerprint": "14oq2s3vo2helizl798l50qqwnws21td",
+    "location": "Tokyo",
+    "timestamp": "2023-12-07T23:41:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "89.3.134.112",
+    "device_fingerprint": "kxz33z73ucrsugqmumigtph61h5l16sh",
+    "location": "Sydney",
+    "timestamp": "2023-12-14T04:02:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "cfd6d9de3g0h71c0ccabh88bb88fffgb",
+    "location": "London",
+    "timestamp": "2023-12-30T11:13:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "dbm3lfwmmhpb0iiycx286wjti2z2uctn",
+    "location": "Sydney",
+    "timestamp": "2023-12-27T00:10:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.122.88",
+    "device_fingerprint": "ccg0366418c6c135d8f53d949dd70c69",
+    "location": "San Francisco",
+    "timestamp": "2023-12-08T11:38:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "192.168.10.156",
+    "device_fingerprint": "9g7d0h00h16c61455gb7c1a7e3f7e964",
+    "location": "London",
+    "timestamp": "2023-12-22T16:31:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "7729fcb5cc9348ehf5eca0g5b0bccb12",
+    "location": "London",
+    "timestamp": "2024-01-21T12:29:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "160.243.175.127",
+    "device_fingerprint": "fu7s7q1pmogagyc07chgi7oyfh8pcaqg",
+    "location": "Mumbai",
+    "timestamp": "2023-12-27T19:45:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "7h32a89d9b32a8ff854655hb3g841804",
+    "location": "New York",
+    "timestamp": "2024-01-18T15:30:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "153.63.197.74",
+    "device_fingerprint": "idaawo1hefa74d4xoksm86wcohdmtejz",
+    "location": "Singapore",
+    "timestamp": "2024-01-18T00:42:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.45.235",
+    "device_fingerprint": "6e45dha493729gda7hh242d4a5108565",
+    "location": "London",
+    "timestamp": "2023-12-09T16:25:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "129ulit6bqm8qyz83djqfpll0us995zh",
+    "location": "Dubai",
+    "timestamp": "2023-12-07T22:11:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "am9wcuyx6y60u52j0fj5956lsq7pegyy",
+    "location": "Moscow",
+    "timestamp": "2023-12-18T22:13:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "196.108.93.143",
+    "device_fingerprint": "ltdraeg67omuam2hco8huj7lq0z49gmt",
+    "location": "Sydney",
+    "timestamp": "2023-12-13T23:11:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "184.27.174.224",
+    "device_fingerprint": "0odz7l60zw7yh2a03os55wd6mrqhetrm",
+    "location": "Mumbai",
+    "timestamp": "2024-01-27T19:37:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "6ytthsibhw16wp4kujleu57bwihxc0tm",
+    "location": "Mumbai",
+    "timestamp": "2023-12-15T05:00:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.158.241",
+    "device_fingerprint": "b04bc0bchgachf32ggdb78f8c90df7a2",
+    "location": "London",
+    "timestamp": "2024-01-11T14:16:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.122.88",
+    "device_fingerprint": "aed805dc32hc914353a90ce5bh8d9h73",
+    "location": "San Francisco",
+    "timestamp": "2023-12-19T17:10:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "2svlggczruvnie3zvm9hznxxv2ssaolj",
+    "location": "Mumbai",
+    "timestamp": "2024-01-19T21:31:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.40.19",
+    "device_fingerprint": "52443bbe4e9fabb9c018g6g15ehcf25c",
+    "location": "London",
+    "timestamp": "2023-12-02T12:54:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "5h8d79g46288b9b8gd5cf0f2851315a3",
+    "location": "London",
+    "timestamp": "2024-01-08T14:48:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "j927o3o3m8ls5as1ohtx99kzfga8iyu8",
+    "location": "Tokyo",
+    "timestamp": "2024-01-15T05:58:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "157.139.55.236",
+    "device_fingerprint": "ebraj77zmv9qtozw3b39925g2yg3uth3",
+    "location": "Tokyo",
+    "timestamp": "2024-01-15T23:22:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "192.168.198.191",
+    "device_fingerprint": "bc0b13h4ebf64eb59cf5dg6be248378b",
+    "location": "London",
+    "timestamp": "2023-12-30T11:31:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "7017bh290a1f0294dgcff73fcb554855",
+    "location": "London",
+    "timestamp": "2023-12-11T18:00:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "249.226.118.48",
+    "device_fingerprint": "lpid9nn3k8si1wp7w2er8iiswy9lnjjf",
+    "location": "Mumbai",
+    "timestamp": "2023-12-22T01:57:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "heea3751e8b2dgh58101fa8b9f322g7c",
+    "location": "London",
+    "timestamp": "2024-01-28T16:36:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "0yzhziez52xopbk5raz61svaywv1cj1w",
+    "location": "Moscow",
+    "timestamp": "2023-12-13T04:33:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "160.243.175.127",
+    "device_fingerprint": "zaitnk7b08v1ap6yfba23tg2rcema8rp",
+    "location": "Moscow",
+    "timestamp": "2023-12-28T21:21:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "231.129.68.83",
+    "device_fingerprint": "hxqvbq466ta95phhl1k22sa9horzunsz",
+    "location": "Mumbai",
+    "timestamp": "2024-01-22T23:37:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "nutibi70goadffzecr1szjj86kx1wleb",
+    "location": "Mumbai",
+    "timestamp": "2024-01-23T06:13:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "363999e98ad01f5eg5d586h7fd5875ce",
+    "location": "London",
+    "timestamp": "2024-01-02T09:34:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "gqyn2txba18db77ikh3mp2x0zuk37n6q",
+    "location": "Sydney",
+    "timestamp": "2023-12-05T23:59:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "g0cllrwy9igrnhglpfkcis2lj4rxu4cu",
+    "location": "Mumbai",
+    "timestamp": "2024-01-09T19:24:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "42.40.21.158",
+    "device_fingerprint": "1la35xhbucxar6v8tanh6l99zxiixujn",
+    "location": "Tokyo",
+    "timestamp": "2024-01-10T03:12:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.196.204",
+    "device_fingerprint": "4ff92722b0d721h81h145he1913cbh66",
+    "location": "New York",
+    "timestamp": "2023-12-08T18:31:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.122.88",
+    "device_fingerprint": "fdh3h464g605766333h305bd9b0d35g2",
+    "location": "New York",
+    "timestamp": "2024-01-07T17:12:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "c2df8fa5ff63dgd692d1c65ha267fbfh",
+    "location": "New York",
+    "timestamp": "2024-01-09T18:31:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "54.210.233.230",
+    "device_fingerprint": "nk1v35flju12n5lmjglrcirg6ccpgymz",
+    "location": "Singapore",
+    "timestamp": "2023-12-21T22:26:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "160.243.175.127",
+    "device_fingerprint": "6g0rq6c0wr4ad1bczwz186vktqb351ld",
+    "location": "Moscow",
+    "timestamp": "2023-12-14T06:30:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "142.104.254.189",
+    "device_fingerprint": "hz644ipy1umqjkijm379bi6t0aab640c",
+    "location": "Moscow",
+    "timestamp": "2024-01-25T03:43:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "de170cg94c13g199193ah5d316ad764d",
+    "location": "San Francisco",
+    "timestamp": "2023-12-20T11:58:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "jrjx0rzx3l5x6ehvnt32nfcy46opc6rf",
+    "location": "Sydney",
+    "timestamp": "2024-01-19T19:19:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "9ghe1gah3145f3a8g5158b829hdhee91",
+    "location": "San Francisco",
+    "timestamp": "2023-12-02T09:14:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.80.239",
+    "device_fingerprint": "5h6d53b8129a56b84g4d3f20326db133",
+    "location": "London",
+    "timestamp": "2023-12-05T17:18:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "160.243.175.127",
+    "device_fingerprint": "5rnhv1z8jo0jifd9opnpqbibaqupj1q2",
+    "location": "Tokyo",
+    "timestamp": "2024-01-14T20:47:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "451c7642b5a36d7c8f8855a2b8c9cg0f",
+    "location": "New York",
+    "timestamp": "2024-01-10T18:22:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.198.191",
+    "device_fingerprint": "e57a282d4h4chhb6605453f444336237",
+    "location": "New York",
+    "timestamp": "2023-12-27T16:24:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.70.207",
+    "device_fingerprint": "d7391bb1h7d27856b1hffh8hhh147f68",
+    "location": "New York",
+    "timestamp": "2023-12-30T15:54:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "184.27.174.224",
+    "device_fingerprint": "su04bvmcxdnaf0vasxn1gjxao6s65u5g",
+    "location": "Sydney",
+    "timestamp": "2023-12-26T23:24:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.223.230",
+    "device_fingerprint": "5cb6b8agb373766dacafgc1d67629955",
+    "location": "New York",
+    "timestamp": "2023-12-06T12:35:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "54.210.233.230",
+    "device_fingerprint": "kdpdnu9bmg76er3o582p0n2besjk4375",
+    "location": "Tokyo",
+    "timestamp": "2023-12-02T03:10:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "d2f49dggb3cfca603f6953ch79ah031b",
+    "location": "London",
+    "timestamp": "2024-01-29T12:57:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.158.241",
+    "device_fingerprint": "g55dd616784gdh2aafah0955f48g0a79",
+    "location": "New York",
+    "timestamp": "2024-01-10T08:47:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "24gc45e5784c6c8f4287d07811gfd6c1",
+    "location": "London",
+    "timestamp": "2024-01-25T18:18:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "192.168.225.110",
+    "device_fingerprint": "fec7hgachbca8c66d2f577gdg8bgbbc2",
+    "location": "New York",
+    "timestamp": "2023-12-23T08:22:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "4mgr4d1sy9h8da40yk6blptpo8chitut",
+    "location": "Sydney",
+    "timestamp": "2023-12-28T20:32:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "kr9kqqy2i5ipnbcx8h75mxjot6qf1y4i",
+    "location": "Tokyo",
+    "timestamp": "2024-01-02T21:01:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "184.27.174.224",
+    "device_fingerprint": "bdhaa6equjyadjwpfjevrxl8mgiqi9cj",
+    "location": "Moscow",
+    "timestamp": "2023-12-09T01:24:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "184.27.174.224",
+    "device_fingerprint": "4zt3ymxshumd2yrv9uiy0r92hupa8i2r",
+    "location": "Sydney",
+    "timestamp": "2023-12-17T20:14:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "xy3jc3i1a036zb970offg9llgpgu7cdb",
+    "location": "Moscow",
+    "timestamp": "2024-01-28T22:14:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "1ba5d229hrwucfwm0zds888vjnn727jf",
+    "location": "Sydney",
+    "timestamp": "2023-12-08T19:21:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "y0dri3nmowptxgt17tcfdczkrtfcr6l4",
+    "location": "Dubai",
+    "timestamp": "2023-12-12T00:31:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "42.40.21.158",
+    "device_fingerprint": "4k6htxbxtglskm1gi8jni31q65h9u1c6",
+    "location": "Sydney",
+    "timestamp": "2024-01-14T21:38:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "fa9h7339b42d6ccfhacg754911f06ad9",
+    "location": "London",
+    "timestamp": "2024-01-12T12:53:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "hb9c00203gaba5b90847d0df58e25b58",
+    "location": "London",
+    "timestamp": "2024-01-30T17:53:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "7w2ikgipn4u07egcuqas464y5l4qv8a9",
+    "location": "Singapore",
+    "timestamp": "2024-01-22T05:28:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "42.40.21.158",
+    "device_fingerprint": "oqri5ven1tmqixrdje3ozeimtitoyhgq",
+    "location": "Mumbai",
+    "timestamp": "2023-12-05T22:09:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "249.226.118.48",
+    "device_fingerprint": "3kd3acld69u8910f8co7lmlvhc6a7lw1",
+    "location": "Mumbai",
+    "timestamp": "2024-01-07T06:15:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "dfdagd1ha4b0aeca8678e40hcga18ach",
+    "location": "London",
+    "timestamp": "2024-01-14T16:28:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "a6fc9hb3f0dee5f91ahe4e3f573ac57d",
+    "location": "New York",
+    "timestamp": "2023-12-13T08:09:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "153.63.197.74",
+    "device_fingerprint": "16c7bwlojzu3oj8tph22senuclw6mcum",
+    "location": "Tokyo",
+    "timestamp": "2024-01-26T02:42:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "191.4.198.48",
+    "device_fingerprint": "tqomtc7kqtvqkor57imj9b4p2yoqnsx4",
+    "location": "Dubai",
+    "timestamp": "2024-01-01T04:46:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.158.241",
+    "device_fingerprint": "293h26764162d06cg93bh46f23dd1e42",
+    "location": "San Francisco",
+    "timestamp": "2024-01-07T11:38:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "16cbntbnuo0v0b2ahl2j60vgfnhy52kh",
+    "location": "Mumbai",
+    "timestamp": "2023-12-11T03:12:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "231.129.68.83",
+    "device_fingerprint": "9kx2ztc5z7po0me7ccqdlkz4aysobbas",
+    "location": "Mumbai",
+    "timestamp": "2023-12-09T22:07:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "3g9d1a86f5h0d89e274c6ad3235ec88e",
+    "location": "New York",
+    "timestamp": "2024-01-11T17:58:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "157.139.55.236",
+    "device_fingerprint": "lnqipw6x7ob5ake732g6gz8u2r4eyoah",
+    "location": "Sydney",
+    "timestamp": "2024-01-22T03:34:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "231.129.68.83",
+    "device_fingerprint": "64vzvy4ge8vjgub0hmnrghxiz9spj0ad",
+    "location": "Mumbai",
+    "timestamp": "2024-01-31T04:14:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "07aaecc3gah581h642d6c6d6c1175g91",
+    "location": "San Francisco",
+    "timestamp": "2023-12-26T09:25:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "bch56f686354f4bf85926gbd371g9a63",
+    "location": "London",
+    "timestamp": "2024-01-06T10:09:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "ff75cbbde878947184h27b125b457g9d",
+    "location": "San Francisco",
+    "timestamp": "2024-01-31T13:53:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "42.40.21.158",
+    "device_fingerprint": "680ia76r4b384w8u66cfncl26rdzody2",
+    "location": "Tokyo",
+    "timestamp": "2024-01-31T00:04:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "192.168.46.136",
+    "device_fingerprint": "55d7111g61g3140e07bh6a2g960ahgfd",
+    "location": "New York",
+    "timestamp": "2023-12-19T11:50:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.1.109",
+    "device_fingerprint": "46234fdee8d25f864h8e4fb48g5h1517",
+    "location": "New York",
+    "timestamp": "2023-12-13T18:08:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.136.143",
+    "device_fingerprint": "650ee0cffc1de27aa8767h81391dh9a8",
+    "location": "London",
+    "timestamp": "2023-12-07T13:58:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "192.168.66.236",
+    "device_fingerprint": "91bhhgd69h9767936d23achh12dc2e19",
+    "location": "London",
+    "timestamp": "2023-12-29T15:09:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.40.19",
+    "device_fingerprint": "88g56cb264h4407c3geedh701178f5c4",
+    "location": "San Francisco",
+    "timestamp": "2024-01-24T15:21:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "192.168.225.110",
+    "device_fingerprint": "dfbe7haggg0b566aee2d3c3g19gc2g02",
+    "location": "London",
+    "timestamp": "2024-01-04T13:04:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "zotvlda88yxabxhogolf382v4i6si0n5",
+    "location": "Sydney",
+    "timestamp": "2023-12-23T07:17:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "192.168.122.88",
+    "device_fingerprint": "7e72h219f966bcd0cfhdd67919db872a",
+    "location": "London",
+    "timestamp": "2023-12-30T08:54:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "169.14.62.218",
+    "device_fingerprint": "hqtufxsgf5xcp3i2yxc7lnuaq1agjk3z",
+    "location": "Tokyo",
+    "timestamp": "2024-01-05T05:39:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "192.168.23.49",
+    "device_fingerprint": "2f9ageadbec493794b1e55992d7ha28g",
+    "location": "London",
+    "timestamp": "2024-01-27T08:46:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "184.27.174.224",
+    "device_fingerprint": "2lcce0uqglfy0rad5840d9ui7h3dxq3a",
+    "location": "Dubai",
+    "timestamp": "2024-01-03T03:14:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "e176h33g2fhcfe1d0651h7439gc75100",
+    "location": "New York",
+    "timestamp": "2024-01-24T17:20:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "9ffhg1geb4gddb46037c5c208a9ch53b",
+    "location": "New York",
+    "timestamp": "2023-12-02T09:00:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "192.168.70.207",
+    "device_fingerprint": "56b16agge91c0cc36269hgdhcef870d8",
+    "location": "New York",
+    "timestamp": "2023-12-11T10:21:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "ad982b6449bd8bdc2ge5hdc9g34c87df",
+    "location": "New York",
+    "timestamp": "2024-01-10T18:16:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "228.190.15.124",
+    "device_fingerprint": "hkqwxhdo6mglz6k9mxcqwi8wvw9xw9rd",
+    "location": "Tokyo",
+    "timestamp": "2024-01-02T05:01:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "pbhh2s4ze95oknzzvfdguhgm0a3q3saz",
+    "location": "Singapore",
+    "timestamp": "2024-01-15T03:16:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "153.63.197.74",
+    "device_fingerprint": "nlmiqg5ckywccx5wy7mn7b5x2lhw2luo",
+    "location": "Sydney",
+    "timestamp": "2023-12-14T23:15:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "50.184.94.107",
+    "device_fingerprint": "v62c7kbcsjyveste9pzv02tv3mj3jhci",
+    "location": "Sydney",
+    "timestamp": "2023-12-13T06:59:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "192.168.198.191",
+    "device_fingerprint": "bg5bf7e46bc05hg42769fe46eb84c91b",
+    "location": "San Francisco",
+    "timestamp": "2024-01-11T09:04:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "rx7yvqzkigsm1wo5t049vzadmjqj5i6u",
+    "location": "Dubai",
+    "timestamp": "2024-01-13T20:55:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.66.236",
+    "device_fingerprint": "dfhdbcec073da6g03727gcage8d881g5",
+    "location": "London",
+    "timestamp": "2024-01-18T09:32:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "255.214.161.193",
+    "device_fingerprint": "lblhcyvk6awi4btx11ey5cuat3t0f0je",
+    "location": "Moscow",
+    "timestamp": "2023-12-30T06:29:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.225.110",
+    "device_fingerprint": "bbg7aafa833d6219640d9d68a2aea1gh",
+    "location": "London",
+    "timestamp": "2024-01-23T16:18:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "192.168.223.230",
+    "device_fingerprint": "97f66c125abaeb2bff42410e1ga3ec9c",
+    "location": "London",
+    "timestamp": "2024-01-22T17:19:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "231.129.68.83",
+    "device_fingerprint": "44b0tzsv8s2xi1wrrmh6hnceczniarfo",
+    "location": "Mumbai",
+    "timestamp": "2023-12-23T07:33:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "9807h3967157ffef8f909h94af468492",
+    "location": "London",
+    "timestamp": "2023-12-03T09:27:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.194.48",
+    "device_fingerprint": "ha4hefe6b19ddg00852gdg18g55514bc",
+    "location": "San Francisco",
+    "timestamp": "2023-12-27T08:40:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "142.104.254.189",
+    "device_fingerprint": "4pgdfp4ni2t6nh67bvnqghax0qj1vku8",
+    "location": "Moscow",
+    "timestamp": "2024-01-15T19:29:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "4uvg9car1jh3wvmq3fs8nhewjxxtazvr",
+    "location": "Dubai",
+    "timestamp": "2024-01-02T22:39:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "be721c4a15h345df97411h7h44ff85c7",
+    "location": "San Francisco",
+    "timestamp": "2023-12-26T11:46:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "0641bh09hag191ff6g2e2cd29ee4fe1f",
+    "location": "New York",
+    "timestamp": "2024-01-27T15:17:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "0kvm9kj0oa4pe3tcfzm3wzxde1lyj5bj",
+    "location": "Sydney",
+    "timestamp": "2024-01-23T02:02:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "180.82.186.64",
+    "device_fingerprint": "lpgmv3mr02co5ozzi0qfogtn0ae2a93r",
+    "location": "Sydney",
+    "timestamp": "2023-12-06T21:16:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "192.168.223.230",
+    "device_fingerprint": "61fb81d713d7bf24719g4eg7he1913da",
+    "location": "London",
+    "timestamp": "2024-01-05T09:13:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "192.168.1.109",
+    "device_fingerprint": "b05c22f2gcef3b7eb1e8gae25775a951",
+    "location": "San Francisco",
+    "timestamp": "2023-12-29T11:07:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "d47660gb7e64c07e17500efe96hge788",
+    "location": "San Francisco",
+    "timestamp": "2023-12-06T10:18:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "89.3.134.112",
+    "device_fingerprint": "chf60je7q0gahbzydblfgdvkuu0ubbz4",
+    "location": "Mumbai",
+    "timestamp": "2024-01-28T06:50:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "160.243.175.127",
+    "device_fingerprint": "nxf9hy3b1qu7n65oqoyov3tef3dovzsz",
+    "location": "Singapore",
+    "timestamp": "2023-12-05T21:03:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "ab6g67b95egcc30bfhb048bgdh3e0e0c",
+    "location": "San Francisco",
+    "timestamp": "2023-12-30T14:56:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "192.168.46.136",
+    "device_fingerprint": "gf6f6329402g4a8465bf09g4h98fc56h",
+    "location": "London",
+    "timestamp": "2023-12-25T17:38:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.70.207",
+    "device_fingerprint": "ffdgbce261g6573gffd274440a0hbfb6",
+    "location": "London",
+    "timestamp": "2023-12-13T13:21:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "babgcdd64ac3fa60fdf0793bghf8f5ff",
+    "location": "London",
+    "timestamp": "2024-01-03T09:17:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "9jt80usfhspvxbiquk1pmns7rs0y9brk",
+    "location": "Moscow",
+    "timestamp": "2024-01-16T02:05:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.118.79",
+    "device_fingerprint": "e34g8aeg3b7e5b6668e990g1bdegc9cg",
+    "location": "New York",
+    "timestamp": "2024-01-31T08:58:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "192.168.1.109",
+    "device_fingerprint": "80a53chf550a1c682f48f1b7d4hh3da8",
+    "location": "San Francisco",
+    "timestamp": "2023-12-02T10:41:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "h83f2e49ecb50hhhh358g2g0hh256dff",
+    "location": "San Francisco",
+    "timestamp": "2024-01-06T15:44:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "qp0lhz10sjpvf6c3awptjx6y0xexakjn",
+    "location": "Mumbai",
+    "timestamp": "2023-12-11T06:18:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "bjliwkb2go20y05jfoi85y4316w0svpb",
+    "location": "Moscow",
+    "timestamp": "2024-01-10T20:14:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "160.243.175.127",
+    "device_fingerprint": "rql42eoa3rldj5l80dff3b2uaarmktq9",
+    "location": "Sydney",
+    "timestamp": "2024-01-05T22:33:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "142.104.254.189",
+    "device_fingerprint": "w3xxryaunluxfzp0bhdrbolr8zk47cig",
+    "location": "Mumbai",
+    "timestamp": "2024-01-12T07:39:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "wb0rza231d500xlqowjim437y4i73u28",
+    "location": "Tokyo",
+    "timestamp": "2024-01-01T07:59:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.23.49",
+    "device_fingerprint": "b4g241d930beffe5dfdhf715heh908ca",
+    "location": "San Francisco",
+    "timestamp": "2024-01-27T16:45:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "184.27.174.224",
+    "device_fingerprint": "3erb9morae9qmye9bnj5aq5d96txc1vh",
+    "location": "Moscow",
+    "timestamp": "2023-12-03T20:40:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "255.214.161.193",
+    "device_fingerprint": "qt78nxpn9ip7hw18bbywfdbrlk8age6f",
+    "location": "Dubai",
+    "timestamp": "2024-01-24T22:08:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "180.82.186.64",
+    "device_fingerprint": "d8bvxy9ywpm3eg254orkt8r13y6ghgcu",
+    "location": "Singapore",
+    "timestamp": "2024-01-31T05:14:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "54.210.233.230",
+    "device_fingerprint": "e5azroeo32uhrjrqru4hf4a05o9xo0mc",
+    "location": "Moscow",
+    "timestamp": "2024-01-14T00:16:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "1dhh20b6g7b644027gc2164eaeh12034",
+    "location": "New York",
+    "timestamp": "2024-01-31T10:30:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "203.188.10.98",
+    "device_fingerprint": "wgfskhapghpxscsr8l1e3wxdaja4mb8k",
+    "location": "Sydney",
+    "timestamp": "2024-01-29T06:33:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "231.129.68.83",
+    "device_fingerprint": "0s8x9eug608f6njblt2nyrwcr39u1b5a",
+    "location": "Singapore",
+    "timestamp": "2023-12-25T06:34:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "9ka4f13op1wa1i8qc4cm7dmrctwrcya2",
+    "location": "Dubai",
+    "timestamp": "2023-12-20T20:02:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "trhhmwj51w3ffiztoyse054oblzi7lru",
+    "location": "Sydney",
+    "timestamp": "2024-01-02T03:16:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.70.207",
+    "device_fingerprint": "8ch21c4e924g45ed3940bh45cb414000",
+    "location": "New York",
+    "timestamp": "2023-12-20T14:31:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.66.236",
+    "device_fingerprint": "353g5dgc5gaa89g4f65cgabhe2bh3acc",
+    "location": "New York",
+    "timestamp": "2024-01-24T13:02:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "191.4.198.48",
+    "device_fingerprint": "xi9keqou1dlru0isnup9334pzm31ylrc",
+    "location": "Moscow",
+    "timestamp": "2023-12-18T21:32:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.45.235",
+    "device_fingerprint": "g940dggb1437a85g017049g16d1ch8b6",
+    "location": "San Francisco",
+    "timestamp": "2024-01-22T15:50:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "togp7gojx96z5o4hw1flltr6u0vng9ld",
+    "location": "Sydney",
+    "timestamp": "2023-12-24T19:11:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.223.230",
+    "device_fingerprint": "1g6142fbeb1h0b36f6cd1cd311cdbae4",
+    "location": "San Francisco",
+    "timestamp": "2024-01-01T09:16:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "192.168.198.191",
+    "device_fingerprint": "4ga3e9003hb3e7a7fgdg2h9d5g134849",
+    "location": "New York",
+    "timestamp": "2024-01-03T16:42:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "50.184.94.107",
+    "device_fingerprint": "fbzzoc64sazas1uzdaj7w89j42tnyz4m",
+    "location": "Dubai",
+    "timestamp": "2024-01-06T19:46:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.225.110",
+    "device_fingerprint": "fcc0a2h346h3ebc16bb82569a671b954",
+    "location": "San Francisco",
+    "timestamp": "2024-01-22T18:01:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "96113hk7kx46bvhudnvhr0zx5mqozf2p",
+    "location": "Singapore",
+    "timestamp": "2024-01-15T02:55:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.159.201",
+    "device_fingerprint": "4he4ec141afdfb69a2cea0585756184d",
+    "location": "New York",
+    "timestamp": "2024-01-07T09:16:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "203.188.10.98",
+    "device_fingerprint": "aiycauvisymeqo54ehqmihalu2lyllfe",
+    "location": "Tokyo",
+    "timestamp": "2024-01-07T03:19:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.128.18",
+    "device_fingerprint": "9d50bh58cfb267b1g6debfh5be5f7520",
+    "location": "San Francisco",
+    "timestamp": "2023-12-04T18:45:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.23.49",
+    "device_fingerprint": "1g058cccbhbaabdedea5cchcf476hd7b",
+    "location": "New York",
+    "timestamp": "2024-01-16T13:14:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "153.63.197.74",
+    "device_fingerprint": "lxltb83za41w4xo0247se3fpolza3ag4",
+    "location": "Dubai",
+    "timestamp": "2024-01-21T20:19:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.80.239",
+    "device_fingerprint": "ee2cgcdbd535e6d7ha6eh1c1ff430ca6",
+    "location": "London",
+    "timestamp": "2024-01-12T10:30:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "3g7gc6865d5784ffe231a8g8a44b475a",
+    "location": "New York",
+    "timestamp": "2024-01-10T14:45:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "96053dh9d68c51aee8be94hda8848a10",
+    "location": "New York",
+    "timestamp": "2023-12-05T13:11:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_006",
+    "ip_address": "231.129.68.83",
+    "device_fingerprint": "o4ezlq6wgmm428konxb0w5r4vznrrdo5",
+    "location": "Mumbai",
+    "timestamp": "2024-01-09T01:10:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.158.241",
+    "device_fingerprint": "7a24aaf2edh43eb0991039d1efg02ch7",
+    "location": "San Francisco",
+    "timestamp": "2024-01-18T09:23:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.194.48",
+    "device_fingerprint": "daa13732cc34b4a90445736d3982h53c",
+    "location": "San Francisco",
+    "timestamp": "2023-12-25T17:45:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "190.165.221.74",
+    "device_fingerprint": "v69b2xj1o0e21z1ysptk3qztfvi8303y",
+    "location": "Singapore",
+    "timestamp": "2023-12-16T00:56:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "196.108.93.143",
+    "device_fingerprint": "8l9ko59bs083gwxt9phuklpn5gb2q78k",
+    "location": "Moscow",
+    "timestamp": "2024-01-14T21:26:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.136.143",
+    "device_fingerprint": "997cd2f10egh110b03c54hg9degf4777",
+    "location": "London",
+    "timestamp": "2023-12-09T13:09:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "v3v2mtql5u7oyhg5wi6eeqc2tromx1ck",
+    "location": "Singapore",
+    "timestamp": "2024-01-26T04:39:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "192.168.198.191",
+    "device_fingerprint": "56gd1bbdd715215abe26h199dhcc882b",
+    "location": "London",
+    "timestamp": "2024-01-05T13:32:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "f28w254sp3h7xb1owkl2doqf2g4p1pmk",
+    "location": "Sydney",
+    "timestamp": "2024-01-15T02:59:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.158.241",
+    "device_fingerprint": "g34b4c41935ge87ade8522edcc70agb4",
+    "location": "San Francisco",
+    "timestamp": "2023-12-07T13:54:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "1dg2931454382h1ga32229d5c3519fcg",
+    "location": "New York",
+    "timestamp": "2024-01-01T16:22:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "191.4.198.48",
+    "device_fingerprint": "wgokn8yvexzpezlkx1jw52eosg14i0r4",
+    "location": "Tokyo",
+    "timestamp": "2024-01-12T06:43:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "aduxoemcemtgvygc46a9q2wlymz8l9ke",
+    "location": "Tokyo",
+    "timestamp": "2024-01-23T23:17:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.196.204",
+    "device_fingerprint": "dh9dg67561983e454542bh68839eg5c7",
+    "location": "New York",
+    "timestamp": "2024-01-27T12:13:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "231.129.68.83",
+    "device_fingerprint": "s8jy9epxsv3e6mdslyc97gjevflupsh3",
+    "location": "Moscow",
+    "timestamp": "2024-01-04T23:22:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "6ri5y30hg5dbpfe8b9k8rkrim5e4vyqa",
+    "location": "Sydney",
+    "timestamp": "2024-01-22T22:02:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "6fq8pvcv79vy1cpg3hbhc8oc3o4e5su2",
+    "location": "Mumbai",
+    "timestamp": "2024-01-06T21:20:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_005",
+    "ip_address": "192.168.91.28",
+    "device_fingerprint": "5ab42a9adbd6eg04bg99721ag2ecce7b",
+    "location": "London",
+    "timestamp": "2024-01-16T18:48:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "192.168.110.214",
+    "device_fingerprint": "a7797e6652gd95a50c50c71ac97f2b0d",
+    "location": "New York",
+    "timestamp": "2024-01-31T13:44:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.223.230",
+    "device_fingerprint": "0egfc6618e8fh1a61gc9g088f5236ba0",
+    "location": "New York",
+    "timestamp": "2024-01-16T15:08:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "d9h78gh77c94b1e0ddc27d5bcedfg262",
+    "location": "San Francisco",
+    "timestamp": "2023-12-25T09:22:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "50.184.94.107",
+    "device_fingerprint": "mxj6u09u13uxn3npjzmp0oty61t1t8yf",
+    "location": "Moscow",
+    "timestamp": "2024-01-13T20:14:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "z10dbgnq9ee2jnbtuqflcu5t5fkoizf3",
+    "location": "Singapore",
+    "timestamp": "2024-01-19T19:39:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "192.168.158.241",
+    "device_fingerprint": "b6c6gg241deh2e1f627eg4ga2a997ch6",
+    "location": "New York",
+    "timestamp": "2024-01-13T18:14:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "24awfyzy85cjqk4qhoxt40wj1crqcpoz",
+    "location": "Sydney",
+    "timestamp": "2023-12-13T02:50:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "192.168.1.109",
+    "device_fingerprint": "c6981b9d6hh91ae2f2dd4e2e74e76a8h",
+    "location": "London",
+    "timestamp": "2024-01-01T14:07:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "2992ha583666f683a6f1798351ba3a19",
+    "location": "London",
+    "timestamp": "2023-12-07T14:32:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "rzd0nnddnf2zstcke4s5l43soqtnyunk",
+    "location": "Dubai",
+    "timestamp": "2023-12-21T00:33:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "157.139.55.236",
+    "device_fingerprint": "yziudt5szwga58lhluah3prquqrh3205",
+    "location": "Sydney",
+    "timestamp": "2023-12-26T00:51:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_014",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "g0p59pcshu13x540m4f52g9fwexicasr",
+    "location": "Tokyo",
+    "timestamp": "2023-12-16T05:21:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "cc18976z3315w3rh11mgjbil94ztudid",
+    "location": "Dubai",
+    "timestamp": "2023-12-09T21:33:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "231.129.68.83",
+    "device_fingerprint": "6f0i4oudpuibkddsfqpzk640t1d330tz",
+    "location": "Singapore",
+    "timestamp": "2024-01-21T03:28:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "gge4qxuogwfu02exy9cy219emguxq5xf",
+    "location": "Singapore",
+    "timestamp": "2024-01-27T22:07:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "192.168.122.88",
+    "device_fingerprint": "3b0f55d595861f3d9bhf44f5ff637g62",
+    "location": "London",
+    "timestamp": "2024-01-15T08:33:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "191.4.198.48",
+    "device_fingerprint": "e47dque1x33lu8prsaj6jwomyh99i96n",
+    "location": "Tokyo",
+    "timestamp": "2023-12-04T03:52:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "6p9u0l7j6pwalba0ig9dpgwjy9gasbho",
+    "location": "Mumbai",
+    "timestamp": "2024-01-26T21:32:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "89.3.134.112",
+    "device_fingerprint": "4rdon1r4svzif658gq2izjrd4lo6dkyu",
+    "location": "Singapore",
+    "timestamp": "2023-12-19T23:18:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "192.168.118.79",
+    "device_fingerprint": "hbe9bb00b84ehhbh2638cd5fcb2hd51f",
+    "location": "London",
+    "timestamp": "2024-01-10T13:55:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "192.168.10.156",
+    "device_fingerprint": "h9he02ec35g7d6hc1e627c1db34b81h4",
+    "location": "New York",
+    "timestamp": "2023-12-05T14:30:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "42.40.21.158",
+    "device_fingerprint": "3rbu07bepp6q4vubgvb9uj2i8idwyd0k",
+    "location": "Moscow",
+    "timestamp": "2023-12-11T23:38:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_003",
+    "ip_address": "42.255.8.148",
+    "device_fingerprint": "7211ixtm3w5v6o8p3dvna2s7i2z0c9nf",
+    "location": "Sydney",
+    "timestamp": "2024-01-05T20:21:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "42.40.21.158",
+    "device_fingerprint": "f3szdyr844j1ii5fetvfngycn9cqzh5o",
+    "location": "Dubai",
+    "timestamp": "2023-12-22T02:48:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.1.109",
+    "device_fingerprint": "7a516f8155abb313b0f6b660f14cc4ca",
+    "location": "London",
+    "timestamp": "2023-12-04T16:30:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.225.110",
+    "device_fingerprint": "geh1ae93b3852d35e498466g1dc1c68e",
+    "location": "New York",
+    "timestamp": "2023-12-14T11:20:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.66.236",
+    "device_fingerprint": "be711cef7b50f48671ghfc029443g4bh",
+    "location": "London",
+    "timestamp": "2023-12-20T15:17:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "54.210.233.230",
+    "device_fingerprint": "y6vkzfhdwhiuz5251ud66nzrxz3x1u7g",
+    "location": "Moscow",
+    "timestamp": "2024-01-02T19:48:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_017",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "qsdzhclzo99cm19h3j5dbyhd6or9wm09",
+    "location": "Dubai",
+    "timestamp": "2023-12-05T02:31:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "192.168.196.204",
+    "device_fingerprint": "176ef78b2a43c28d629908fce7g6cd2h",
+    "location": "London",
+    "timestamp": "2023-12-03T13:55:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "209.82.200.197",
+    "device_fingerprint": "do4yrbelsaqk4xvmmyb5r7boa7212y93",
+    "location": "Dubai",
+    "timestamp": "2024-01-24T00:40:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "192.168.40.19",
+    "device_fingerprint": "0h3g5a2cfdce2hh35c0he84ge87520h2",
+    "location": "New York",
+    "timestamp": "2023-12-29T17:40:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.196.204",
+    "device_fingerprint": "c60c8796c02g413gbd5ff9687a3hef4g",
+    "location": "San Francisco",
+    "timestamp": "2023-12-14T11:19:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_018",
+    "ip_address": "192.168.136.143",
+    "device_fingerprint": "3a2g39c6484435h9a255d685b9f44871",
+    "location": "London",
+    "timestamp": "2024-01-12T15:25:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_004",
+    "ip_address": "192.168.40.19",
+    "device_fingerprint": "63ac71704agg89748d1e4345c19h6333",
+    "location": "New York",
+    "timestamp": "2024-01-04T14:24:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_015",
+    "ip_address": "192.168.196.204",
+    "device_fingerprint": "3b203h636g8f75d74e270279c8825h0h",
+    "location": "San Francisco",
+    "timestamp": "2024-01-15T16:46:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_019",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "heb01c148dbh6ha0540h90hac6c5348b",
+    "location": "London",
+    "timestamp": "2024-01-26T17:55:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "gtzaxplk0klr24smmttqilmqwoylrf6o",
+    "location": "Moscow",
+    "timestamp": "2024-01-01T07:11:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "192.168.45.235",
+    "device_fingerprint": "9e9cfd2gf761e5g2ec19gb8416a20bef",
+    "location": "London",
+    "timestamp": "2024-01-06T13:41:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "255.214.161.193",
+    "device_fingerprint": "7wz30sve0nc7by6teh4wrt6lp28sjo1w",
+    "location": "Tokyo",
+    "timestamp": "2023-12-26T04:31:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_012",
+    "ip_address": "192.168.45.235",
+    "device_fingerprint": "90dbg3a11ggbfa1gb6g3e8c75bad2c30",
+    "location": "London",
+    "timestamp": "2024-01-31T13:42:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_016",
+    "ip_address": "153.63.197.74",
+    "device_fingerprint": "agdjgsqcm8bgpyr17az0lvnqmgeamf4t",
+    "location": "Moscow",
+    "timestamp": "2023-12-19T23:40:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "192.168.153.241",
+    "device_fingerprint": "07a9c154g3a798ca37h5ega0df4gdb39",
+    "location": "New York",
+    "timestamp": "2024-01-14T09:34:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "115.245.184.76",
+    "device_fingerprint": "m58xvrvzzm0q0v87m3wm15skhty1w67u",
+    "location": "Sydney",
+    "timestamp": "2024-01-25T23:16:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_020",
+    "ip_address": "184.27.174.224",
+    "device_fingerprint": "pkxteku0oa4j11ffruo0dw3sz0421xxt",
+    "location": "Moscow",
+    "timestamp": "2024-01-16T21:51:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.80.239",
+    "device_fingerprint": "3h396dcf20d67b3egacfceege7c2de27",
+    "location": "New York",
+    "timestamp": "2023-12-13T10:37:00",
+    "user_agent": "Edge/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "192.168.45.235",
+    "device_fingerprint": "6h56dgh8g9810126b98g19183370c773",
+    "location": "New York",
+    "timestamp": "2023-12-04T12:15:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_002",
+    "ip_address": "153.63.197.74",
+    "device_fingerprint": "dfl14y4zqyffjqobomc1uiexg6jdaya1",
+    "location": "Dubai",
+    "timestamp": "2024-01-24T20:51:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.224.214",
+    "device_fingerprint": "78b67hd4gfdh4gh8he64fhf0e6582122",
+    "location": "San Francisco",
+    "timestamp": "2024-01-10T14:15:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "5.206.64.248",
+    "device_fingerprint": "cscqmi0jsdkszzweg6k7l0zh21b8tldk",
+    "location": "Moscow",
+    "timestamp": "2024-01-08T22:12:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "50.184.94.107",
+    "device_fingerprint": "v1kzcmg75blfidvl4gosfq35apy6muz1",
+    "location": "Mumbai",
+    "timestamp": "2023-12-20T01:22:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_008",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "qqnuabpywr3m6b0jq1pae1napdxy60g4",
+    "location": "Moscow",
+    "timestamp": "2023-12-16T19:04:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_011",
+    "ip_address": "146.34.211.156",
+    "device_fingerprint": "vi7gpopitygvvayo4krmvia3izkwmrbl",
+    "location": "Sydney",
+    "timestamp": "2024-01-01T02:59:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.40.19",
+    "device_fingerprint": "dd457dc2212c07ad2deb9g68c9h0320a",
+    "location": "San Francisco",
+    "timestamp": "2023-12-28T15:51:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.57.250",
+    "device_fingerprint": "03209g509dcc5bb219g0d9f03aha5a9f",
+    "location": "New York",
+    "timestamp": "2023-12-21T14:56:00",
+    "user_agent": "Chrome/90.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_001",
+    "ip_address": "16.11.124.115",
+    "device_fingerprint": "lfz44k95bb0b69dgyesgbw381nyklm36",
+    "location": "Moscow",
+    "timestamp": "2024-01-12T21:30:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_009",
+    "ip_address": "192.168.122.88",
+    "device_fingerprint": "11c60h900b7c5990h6cffegfe22h6200",
+    "location": "San Francisco",
+    "timestamp": "2023-12-08T10:08:00",
+    "user_agent": "Safari/605.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_007",
+    "ip_address": "196.108.93.143",
+    "device_fingerprint": "i5kwr7q0h990opjkv819kqh02ehcpqn0",
+    "location": "Dubai",
+    "timestamp": "2024-01-06T00:12:00",
+    "user_agent": "Firefox/88.0",
+    "is_anomalous": true
+  },
+  {
+    "user_id": "user_013",
+    "ip_address": "192.168.198.191",
+    "device_fingerprint": "c1b1cga7281fcc2h5423274e919013d9",
+    "location": "San Francisco",
+    "timestamp": "2023-12-10T15:40:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  },
+  {
+    "user_id": "user_010",
+    "ip_address": "192.168.23.49",
+    "device_fingerprint": "c7a99c1a8975ec0f8231bf314ahbc176",
+    "location": "San Francisco",
+    "timestamp": "2023-12-02T10:13:00",
+    "user_agent": "Mozilla/5.0",
+    "is_anomalous": false
+  }
+]
